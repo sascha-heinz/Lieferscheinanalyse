@@ -1,7 +1,0 @@
-- Den gesamten Ordner "Lieferscheinanalyse" kopieren und irgendwo bei sich ablegen, dann nutzen
-- Alle 3 Dateien müssen sich in einem Ordner befinden (index.html, script.js und styles.css). Der Name darf nicht geändert werden. Zur Nutzung nur die index.html Datei im Browser öffnen
-- Scanner auf 150x150px oder 400x400px stellen - kein PDF Kompakt! (andere Ausflösungen Fehleranfällig)
-- Es können PDFs mit mehreren Seiten hochgeladen werden, aber immer nur eine pdf und von einem Lieferanten (Keine Lieferscheine von unterschiedlichen Lieferanten mischen)
-- Das Fenster muss während der Analyse geöfnet sein! Beim verlassen des Tabs oder minimieren des Fensters wid die Ausführung blockiert (aus Sicherheitsgründen)
-- Sobald eine Datei analysiert wurde, zurücksetzten, um neue Datei zu analysieren
-- Die Daten sind in der Excel-Datei teilweise unformatiert. Bitte darauf achten bei weiterer Verwendung
